@@ -1,6 +1,6 @@
 body
 {
-	background: rgb(118, 32, 126);
+	background: rgb(202, 82, 213);
 }
 
 h1{
@@ -24,7 +24,7 @@ h1{
 }
 #word
 {
-	width: 60%;
+	width: 20%;
 }
 #word_display
 {
