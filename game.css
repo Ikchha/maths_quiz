@@ -16,6 +16,11 @@ h1{
 		border-radius: 15px;
 	}
 
+label
+{
+	color: white;
+}	
+
 
 #player1_name , #player2_name
 {
